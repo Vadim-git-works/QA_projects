@@ -1,0 +1,6 @@
+[Скриншот окна настройки автозамены запроса видов транспорта в Charles.png](https://drive.google.com/open?id=1DjF6gpKbryNxaYgShuBq9ivgr8q1UFIt&usp=drive_copy)  
+[Скриншот с изменённым запросом видов транспорта из Charles.png](https://drive.google.com/open?id=1sF9PhmhrcXSGJuyV-Lk8m6g9otaLTgya&usp=drive_copy)  
+[Скриншот из Charles с оригинальным запросом видов транспорта--.png](https://drive.google.com/open?id=16YyPFw02Ty2u42SnNMxpAklpbH2bCGQy&usp=drive_copy)  
+[Скриншот из Charles с оригинальным запросом расчёта стоимости и длительности поездки.png](https://drive.google.com/open?id=1pI2Sw5ZV9IYJeUCaLMFQ_SFmkvzPM75v&usp=drive_copy)  
+[Скриншот с изменённым запросом расчёта стоимости и длительности поездки из Charles.png](https://drive.google.com/open?id=1bi-RLA8dUuo8hrzWzXpgtVOEyN-7BPB5&usp=drive_copy)  
+[Скриншот окна настройки автозамены с запросом расчёта стоимости и длительности поездки в Charles.png](https://drive.google.com/open?id=1B5rZ8LhpzK4fBSgVgQLrXuD3wGBaqqji&usp=drive_copy)
